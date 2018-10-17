@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+}
+body {
+
+    background-color: blue;
+}
+
+.amarillo {
+    height: 100%;
+    margin-left: 100px;
+    background-color: yellow;
+}
