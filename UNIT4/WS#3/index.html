@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="funciones.js"></script>
+    <title>WS#3</title>
+</head>
+<body>
+    <form name="form" method="post">
+        <div>
+            <label>Nombre:</label>
+            <input onkeyup="validarNombre()" onblur="validarNombre()" type="text" name="nombre" id="nombre" />
+        </div>
+        <div>
+            <label>Primer apellido:</label>
+            <input onkeyup="validarApellido()" onblur="validarApellido()" type="text" name="apellido" id="apellido"/>
+        </div>
+        <div>
+            <label>DNI:</label>
+            <input onkeyup="validarDNI()" onblur="validarDNI()" type="text" name="dni" id="dni"/>
+        </div>
+        <div>
+            <label>Telefono: </label>
+            <input onkeyup="validarTelefono()" onblur="validarTelefono()" type="tel" name="telefono" id="telefono"/>
+        </div>
+        <div>
+            <label>E-mail:</label>
+            <input onkeyup="validarEmail()" onblur="validarEmail()" type="email" name="email" id="email"/>
+        </div>
+        <div>
+            <label>Usuario:</label>
+            <input onkeyup="validarUsuario()" onblur="validarUsuario()" type="text" name="usuario" id="usuario"/>
+        </div>
+    </form>
+</body>
+</html>
