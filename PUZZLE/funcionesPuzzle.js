@@ -12,7 +12,7 @@ movimientos realizados.
 5. Implementar s un
 ser probado
 */
-class Model {
+export class Model {
     constructor() {
         this.board = [[0, 0, 0], [0, 0, 0], [0, 0, 0]];
         this.movements = 0;
@@ -74,7 +74,7 @@ class Model {
 
 } //model
 
-class View {
+export class View {
     constructor() {
         this.drawTable();
     }
@@ -102,7 +102,7 @@ class View {
 
 } //view
 
-class Controller {
+export class Controller {
     constructor() {
         this.model = new Model();
         this.view = new View();

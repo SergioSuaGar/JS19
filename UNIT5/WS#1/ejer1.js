@@ -10,19 +10,16 @@ function estructura() {
     body.appendChild(para2);
     body.appendChild(para3);
 }
-
+var numEnlaces = document.getElementsByTagName("a");
 function numEnlaces() {
-    var numEnlaces = document.getElementsByTagName("a");
     console.log(numEnlaces.length);
     return ('El numero de enlaces en la pagina es: ' + numEnlaces.length);
 }
 function penultEnlace() {
-    var numEnlaces = document.getElementsByTagName("a");
     console.log(numEnlaces[numEnlaces.length - 2].href);
     return ('El penultimo enlace es: ' + numEnlaces[numEnlaces.length - 2].href);
 }
 function numGoogle() {
-    var numEnlaces = document.getElementsByTagName("a");
     var contador = 0;
     for (var i = 0; i < numEnlaces.length; i++) {
         if (numEnlaces[i].href == "https://www.google.es") {
@@ -33,6 +30,6 @@ function numGoogle() {
 }
 function numEnlacesP3() {
     var parrafo = document.getElementsByTagName('p');
-    var numEnlaces = parrafo[2].getElementsByTagName('a');
-    return ('El numero de enlaces en el Tercer parrado es: ' + numEnlaces.length);
+    var numEnlacess = parrafo[2].numEnlaces;
+    return ('El numero de enlaces en el Tercer parrado es: ' + numEnlacess.length);
 }
