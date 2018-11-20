@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85be4cfb-7056-4365-802d-2c5a6e512b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PUZZLE/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PUZZLE/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UNIT3/WS#3/.idea/WS#3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UNIT3/WS#3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UNIT3/WS#3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UNIT3/WS#3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UNIT3/WS#3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UNIT3/WS#3/funcionesPuzzle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../UNIT3/WS#3/funcionesPuzzle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UNIT3/WS#3/indexPuzzle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../UNIT3/WS#3/indexPuzzle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juego/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juego/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS#2/pong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS#2/pong.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juegoSimple/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juegoSimple/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUZZLE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PUZZLE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUZZLE/funcionesPuzzle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../PUZZLE/funcionesPuzzle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUZZLE/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../PUZZLE/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUZZLE/indexPuzzle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PUZZLE/indexPuzzle.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS#1/ejer1.js" beforeDir="false" afterPath="$PROJECT_DIR$/WS#1/ejer1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS#1/ejer5.html" beforeDir="false" afterPath="$PROJECT_DIR$/WS#1/ejer5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS#1/ejer5.js" beforeDir="false" afterPath="$PROJECT_DIR$/WS#1/ejer5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS#1/ejer6.html" beforeDir="false" afterPath="$PROJECT_DIR$/WS#1/ejer6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS#1/ejer6.js" beforeDir="false" afterPath="$PROJECT_DIR$/WS#1/ejer6.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,36 +27,42 @@
     <session id="156589947">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="7" />
-          <entry key="js" value="7" />
+          <entry key="html" value="10" />
+          <entry key="js" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="7" />
-          <entry key="JavaScript" value="7" />
+          <entry key="HTML" value="10" />
+          <entry key="JavaScript" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="169" />
-          <entry key="js" value="906" />
+          <entry key="html" value="846" />
+          <entry key="js" value="4050" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="169" />
-          <entry key="JavaScript" value="906" />
+          <entry key="HTML" value="846" />
+          <entry key="JavaScript" value="4050" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -70,73 +72,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WS#1/ejer1.html">
+        <entry file="file://$PROJECT_DIR$/Juego/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#text#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Juego/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <caret line="42" column="67" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="42" selection-end-column="67" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WS#1/ejer1.js">
+        <entry file="file://$PROJECT_DIR$/juegoSimple/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WS#1/ejer4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WS#1/ejer4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="51">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WS#1/ejer5.html">
+        <entry file="file://$PROJECT_DIR$/juegoSimple/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WS#1/ejer5.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WS#1/ejer6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WS#1/ejer6.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -150,6 +123,26 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reload</find>
+      <find>location</find>
+      <find>hexa</find>
+      <find>detecta</find>
+      <find>sumar</find>
+      <find>fps</find>
+      <find>objeto</find>
+      <find>body</find>
+      <find>detec</find>
+      <find>coleccion</find>
+      <find>circulos</find>
+      <find>circulo</find>
+      <find>baseVal</find>
+      <find>vely</find>
+      <find>inicia</find>
+      <find>equipoIA</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -165,6 +158,12 @@
         <option value="$PROJECT_DIR$/WS#1/ejer6.js" />
         <option value="$PROJECT_DIR$/WS#1/ejer5.html" />
         <option value="$PROJECT_DIR$/WS#1/ejer5.js" />
+        <option value="$PROJECT_DIR$/WS#2/pong.js" />
+        <option value="$PROJECT_DIR$/WS#2/pong.html" />
+        <option value="$PROJECT_DIR$/Juego/index.html" />
+        <option value="$PROJECT_DIR$/Juego/index.js" />
+        <option value="$PROJECT_DIR$/juegoSimple/index.html" />
+        <option value="$PROJECT_DIR$/juegoSimple/index.js" />
       </list>
     </option>
   </component>
@@ -188,6 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,19 +198,18 @@
             <path>
               <item name="UNIT5" type="b2602c69:ProjectViewProjectNode" />
               <item name="UNIT5" type="462c0819:PsiDirectoryNode" />
-              <item name="WS#1" type="462c0819:PsiDirectoryNode" />
+              <item name="Juego" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UNIT3/WS#3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -239,16 +238,27 @@
       <workItem from="1540719540125" duration="5233000" />
       <workItem from="1540814127137" duration="2227000" />
       <workItem from="1540890599694" duration="1621000" />
-      <workItem from="1540900323144" duration="3470000" />
+      <workItem from="1540900323144" duration="4158000" />
+      <workItem from="1540977745404" duration="2045000" />
+      <workItem from="1541504093621" duration="164000" />
+      <workItem from="1541505121310" duration="3542000" />
+      <workItem from="1541523721058" duration="682000" />
+      <workItem from="1541960455621" duration="1861000" />
+      <workItem from="1542020235057" duration="2867000" />
+      <workItem from="1542023825432" duration="4300000" />
+      <workItem from="1542094606439" duration="5511000" />
+      <workItem from="1542101065819" duration="2668000" />
+      <workItem from="1542106944277" duration="2362000" />
+      <workItem from="1542114197964" duration="2663000" />
+      <workItem from="1542628275030" duration="6671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12551000" />
+    <option name="totallyTimeSpent" value="48575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -295,6 +305,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WS#1/ejer6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WS#1/ejer1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -312,35 +329,14 @@
     <entry file="file://$PROJECT_DIR$/WS#1/ejer4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WS#1/ejer4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WS#1/ejer6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WS#1/ejer6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WS#1/ejer5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -348,6 +344,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="15" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WS#1/ejer5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WS#1/ejer6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WS#2/pong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WS#2/pong.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Juego/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#text#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Juego/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="42" column="67" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="42" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juegoSimple/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juegoSimple/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>

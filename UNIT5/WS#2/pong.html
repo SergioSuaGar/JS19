@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="pong.js"></script>
+    <title>PONG</title>
+</head>
+<body>
+    <svg width="600" height="300">
+        <rect width="600" height="300" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)" />
+        <circle id="circulo" cx="40" cy="40" r="30" stroke="black" stroke-width="2" fill="yellow" />
+        <animate xlink:href="#circulo" attributeName="cx" from="40" to="450" dur="2s"/>
+        <animate xlink:href="#circulo" attributeName="cy" from="40" to="450" dur="2s"/>
+    </svg>
+
+</body>
+</html>
