@@ -43,7 +43,8 @@ class Juego {
         document.getElementById("contVida").innerHTML = this.vidas;
         if (this.vidas === 0){
             document.getElementById("perdido").style.fill = "rgba(0, 0, 0, 1)";
-            setTimeout(function(){ location.reload(); }, 5000);
+            clearInterval(this.movimientoContinuo);
+            clearInterval(this.tiempoRestante);
         }
     }
     tiempoRestante(){
@@ -52,10 +53,13 @@ class Juego {
             document.getElementById("contTiempo").innerHTML = this.tiempo;
             if (this.tiempo === 0){
                 document.getElementById("ganado").style.fill = "rgba(0, 0, 0, 1)";
-                setTimeout(function(){ location.reload(); }, 5000);
+                clearInterval(this.movimientoContinuo);
+                clearInterval(this.tiempoRestante);
             }
         },1000);
     }
+
+
 }
 // Esta clase servira para guardar toda nuestra IA en un array
 class EquipoIA {
@@ -68,7 +72,7 @@ class EquipoIA {
     }
 }
 
-/* La clase IA seran nuestro circulos en constante movimiento. Tendran un metodo mover, el cual se moveran de 4 en 4 y
+/* La clase IA seran nuestros circulos en constante movimiento. Tendran un metodo mover, el cual se moveran de 4 en 4 y
 * comprobara si existe un choque con otro circulo. Tambien esta el metodo detectar, para mantener los circulos dentro del svg.*/
 class IA {
     constructor(id) {

@@ -1,0 +1,5 @@
+{"restaurantes":[
+  { "nombre":"Casa Paco", "direccion":"Calle las resas", "web":"www.risas.com", "imagenes":["https://cdn.foodandwineespanol.com/2018/07/hamburguesa-pollo-queso-guacamole.jpg","https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg"]},
+  { "nombre":"Casa Manolo", "direccion":"Calle los jajas","web":"www.jajas.com", "imagenes":["https://cdn.foodandwineespanol.com/2018/07/hamburguesa-pollo-queso-guacamole.jpg","https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg","https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg"] },
+  { "nombre":"Casa Pepe", "direccion":"Calle las risas y jajas","web":"www.risasyjajas.com", "imagenes":["https://cdn.foodandwineespanol.com/2018/07/hamburguesa-pollo-queso-guacamole.jpg","https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg","https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg", "https://cdn.foodandwineespanol.com/2018/07/hamburguesa-pollo-queso-guacamole.jpg","https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg"] }
+]}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<correos>
+    <correo>
+        <remitente>Fran</remitente>
+        <asunto>Quedada Sabado</asunto>
+        <mensaje>Vamos a quedar este sabado a las 2, no te quedes dormido</mensaje>
+    </correo>
+    <correo>
+        <remitente>Alex</remitente>
+        <asunto>Risas</asunto>
+        <mensaje>He dejado a Maria que salga 5 minutos a la calle</mensaje>
+    </correo>
+    <correo>
+        <remitente>Mia</remitente>
+        <asunto>GuauGuau</asunto>
+        <mensaje>GuauGuauGuauGuauGuau</mensaje>
+    </correo>
+</correos>
